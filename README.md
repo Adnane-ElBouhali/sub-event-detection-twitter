@@ -68,12 +68,6 @@ Run predictions on the evaluation dataset:
 python predict.py
 ```
 
-## Results
-
-- **Validation Accuracy**: ~68%
-- **Classification Report**: F1-score improvement on both classes after handling imbalance.
-- **Deployment**: The trained model is capable of making real-time predictions on live tweet streams.
-
 ## Future Enhancements
 
 - Extend to multi-class classification for finer sub-event detection (e.g., distinguishing goals from penalties).
